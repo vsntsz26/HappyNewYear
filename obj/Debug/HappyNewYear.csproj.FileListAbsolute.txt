@@ -1,0 +1,17 @@
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\bin\Debug\HappyNewYear.exe.config
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\bin\Debug\HappyNewYear.exe
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\bin\Debug\HappyNewYear.pdb
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.csproj.AssemblyReference.cache
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.csproj.SuggestedBindingRedirects.cache
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.Form1.resources
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.Properties.Resources.resources
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.csproj.GenerateResource.cache
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.csproj.CoreCompileInputs.cache
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.exe
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.pdb
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.receba.resources
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\Interop.WMPLib.dll
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\obj\Debug\HappyNewYear.csproj.ResolveComReference.cache
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\bin\Debug\Interop.WMPLib.dll
+C:\Users\v_sntsz\Desktop\Happy New Year\HappyNewYear\bin\Debug\AxInterop.WMPLib.dll
